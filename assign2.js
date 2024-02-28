@@ -43,7 +43,8 @@ console.log(volumeOfRectPrism(5,6,7))
 // 7.
 function areaOfCircle(r){
     const π = 3.14
-    return area = π * r * r
+    const area = π * r * r
+    return area
 }
 
 console.log(areaOfCircle(7))      
